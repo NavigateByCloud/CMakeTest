@@ -1,0 +1,13 @@
+[
+{
+  "directory": "C:/Users/swing/OneDrive/文档/GitHub/CMakeTest/build",
+  "command": "C:\\PROGRA~2\\MICROS~1\\2017\\COMMUN~1\\VC\\Tools\\MSVC\\1415~1.267\\bin\\Hostx86\\x86\\cl.exe  /nologo /TP  -I. -I..\\ -I..\\MathFunctions  /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1   /FoCMakeFiles\\Tutorial.dir\\tutorial.cxx.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\swing\\OneDrive\\文档\\GitHub\\CMakeTest\\tutorial.cxx",
+  "file": "C:/Users/swing/OneDrive/文档/GitHub/CMakeTest/tutorial.cxx"
+},
+
+{
+  "directory": "C:/Users/swing/OneDrive/文档/GitHub/CMakeTest/build",
+  "command": "C:\\PROGRA~2\\MICROS~1\\2017\\COMMUN~1\\VC\\Tools\\MSVC\\1415~1.267\\bin\\Hostx86\\x86\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1   /FoMathFunctions\\CMakeFiles\\MathFunctions.dir\\mysqrt.cxx.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\swing\\OneDrive\\文档\\GitHub\\CMakeTest\\MathFunctions\\mysqrt.cxx",
+  "file": "C:/Users/swing/OneDrive/文档/GitHub/CMakeTest/MathFunctions/mysqrt.cxx"
+}
+]

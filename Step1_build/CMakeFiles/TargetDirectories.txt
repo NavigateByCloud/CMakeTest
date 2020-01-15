@@ -1,0 +1,4 @@
+C:/Users/swing/OneDrive/文档/GitHub/CMakeTest/Step1_build/CMakeFiles/Tutorial.dir
+C:/Users/swing/OneDrive/文档/GitHub/CMakeTest/Step1_build/CMakeFiles/INSTALL.dir
+C:/Users/swing/OneDrive/文档/GitHub/CMakeTest/Step1_build/CMakeFiles/ALL_BUILD.dir
+C:/Users/swing/OneDrive/文档/GitHub/CMakeTest/Step1_build/CMakeFiles/ZERO_CHECK.dir

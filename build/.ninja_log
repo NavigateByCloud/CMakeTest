@@ -1,0 +1,5 @@
+# ninja log v5
+4	450	600828428	MathFunctions/CMakeFiles/MathFunctions.dir/mysqrt.cxx.obj	401a6c7400cef5e1
+450	486	600828428	MathFunctions/MathFunctions.lib	f494e635bb9b8fec
+0	503	600828428	CMakeFiles/Tutorial.dir/tutorial.cxx.obj	db805faaba5a7e5a
+504	1059	600828428	Tutorial.exe	c4118e0d3838729c

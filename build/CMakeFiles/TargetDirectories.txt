@@ -1,0 +1,12 @@
+C:/Users/swing/OneDrive/文档/GitHub/CMakeTest/build/CMakeFiles/Tutorial.dir
+C:/Users/swing/OneDrive/文档/GitHub/CMakeTest/build/CMakeFiles/install/local.dir
+C:/Users/swing/OneDrive/文档/GitHub/CMakeTest/build/CMakeFiles/install.dir
+C:/Users/swing/OneDrive/文档/GitHub/CMakeTest/build/CMakeFiles/edit_cache.dir
+C:/Users/swing/OneDrive/文档/GitHub/CMakeTest/build/CMakeFiles/rebuild_cache.dir
+C:/Users/swing/OneDrive/文档/GitHub/CMakeTest/build/CMakeFiles/list_install_components.dir
+C:/Users/swing/OneDrive/文档/GitHub/CMakeTest/build/MathFunctions/CMakeFiles/MathFunctions.dir
+C:/Users/swing/OneDrive/文档/GitHub/CMakeTest/build/MathFunctions/CMakeFiles/install/local.dir
+C:/Users/swing/OneDrive/文档/GitHub/CMakeTest/build/MathFunctions/CMakeFiles/install.dir
+C:/Users/swing/OneDrive/文档/GitHub/CMakeTest/build/MathFunctions/CMakeFiles/edit_cache.dir
+C:/Users/swing/OneDrive/文档/GitHub/CMakeTest/build/MathFunctions/CMakeFiles/rebuild_cache.dir
+C:/Users/swing/OneDrive/文档/GitHub/CMakeTest/build/MathFunctions/CMakeFiles/list_install_components.dir
